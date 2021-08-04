@@ -6,3 +6,4 @@ Project to practice making and working with vectors in R & Python
 -Surf
 -Go for a hike
 
+## I love linear algebra!!
